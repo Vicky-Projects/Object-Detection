@@ -6,7 +6,7 @@ This set of Notebooks provides a complete set of code to be able to train and le
 
 # Step 1:
 
-  Clone this repository:https://github.com/Vicky-Projects/object-    detection.git
+  Clone this repository:https://github.com/Vicky-Projects/object-detection.git
 
 # Step 2: Create a new virtual environment
 
@@ -39,9 +39,9 @@ Collect images using the Notebook
 
 Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders.
 
-    \TFODCourse\Tensorflow\workspace\images\train
+    \TFOD\Tensorflow\workspace\images\train
 
-    \TFODCourse\Tensorflow\workspace\images\test
+    \TFOD\Tensorflow\workspace\images\test
 
 # Step 7: 
 
