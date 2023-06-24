@@ -32,8 +32,8 @@ Collect images using the Notebook
 
 1. Image Collection.ipynb - ensure you change the kernel to the virtual
    environment as shown below
-  
-4. ![image](https://docs.google.com/document/d/e/2PACX-1vQKY5pRigozdPvq9sX7M0Qur1sdvq1SIlq4KMvW_6KH7GgAKQUc47rtEM-2AG8AAXMDAIiVE5vl41hx/pub)
+
+   <a href="https://ibb.co/82j8NrF"><img src="https://i.ibb.co/Dk7Kz93/Untitled-presentation.jpg" alt="Untitled-presentation" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/Robert-Frost/Dust-of-Snow'>dust of snow robert frost</a><br />
 
 # Step 6: 
 
