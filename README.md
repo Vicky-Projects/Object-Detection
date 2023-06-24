@@ -33,8 +33,8 @@ Collect images using the Notebook
 1. Image Collection.ipynb - ensure you change the kernel to the virtual
    environment as shown below
 
-   <a href="https://ibb.co/82j8NrF"><img src="https://i.ibb.co/Dk7Kz93/Untitled-presentation.jpg" alt="Untitled-presentation" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/Robert-Frost/Dust-of-Snow'>dust of snow robert frost</a><br />
-
+   <a href="https://ibb.co/82j8NrF"><img src="https://i.ibb.co/Dk7Kz93/Untitled-presentation.jpg" alt="Untitled-presentation" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/Robert-Frost/Dust-of-Snow'></a><br />
+   
 # Step 6: 
 
 Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders.
