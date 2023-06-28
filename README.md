@@ -2,7 +2,10 @@
 
 This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API.
 
+![image](https://www.canva.com/design/DAFnF9dex3A/x1nlMcQxs3VhBwzPb7yD7A/watch?utm_content=DAFnF9dex3A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 # STEPS
+
 
 # Step 1:
 
